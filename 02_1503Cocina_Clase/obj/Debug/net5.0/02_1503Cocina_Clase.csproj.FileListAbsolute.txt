@@ -1,0 +1,16 @@
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\02_1503Cocina_Clase\bin\Debug\net5.0\02_1503Cocina_Clase.exe
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\02_1503Cocina_Clase\bin\Debug\net5.0\02_1503Cocina_Clase.deps.json
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\02_1503Cocina_Clase\bin\Debug\net5.0\02_1503Cocina_Clase.runtimeconfig.json
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\02_1503Cocina_Clase\bin\Debug\net5.0\02_1503Cocina_Clase.runtimeconfig.dev.json
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\02_1503Cocina_Clase\bin\Debug\net5.0\02_1503Cocina_Clase.dll
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\02_1503Cocina_Clase\bin\Debug\net5.0\ref\02_1503Cocina_Clase.dll
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\02_1503Cocina_Clase\bin\Debug\net5.0\02_1503Cocina_Clase.pdb
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\02_1503Cocina_Clase\obj\Debug\net5.0\02_1503Cocina_Clase.csprojAssemblyReference.cache
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\02_1503Cocina_Clase\obj\Debug\net5.0\02_1503Cocina_Clase.GeneratedMSBuildEditorConfig.editorconfig
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\02_1503Cocina_Clase\obj\Debug\net5.0\02_1503Cocina_Clase.AssemblyInfoInputs.cache
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\02_1503Cocina_Clase\obj\Debug\net5.0\02_1503Cocina_Clase.AssemblyInfo.cs
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\02_1503Cocina_Clase\obj\Debug\net5.0\02_1503Cocina_Clase.csproj.CoreCompileInputs.cache
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\02_1503Cocina_Clase\obj\Debug\net5.0\02_1503Cocina_Clase.dll
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\02_1503Cocina_Clase\obj\Debug\net5.0\ref\02_1503Cocina_Clase.dll
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\02_1503Cocina_Clase\obj\Debug\net5.0\02_1503Cocina_Clase.pdb
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\02_1503Cocina_Clase\obj\Debug\net5.0\02_1503Cocina_Clase.genruntimeconfig.cache
