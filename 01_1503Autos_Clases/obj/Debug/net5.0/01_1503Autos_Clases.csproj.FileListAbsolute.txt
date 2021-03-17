@@ -1,0 +1,16 @@
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\01_1503Autos_Clases\bin\Debug\net5.0\01_1503Autos_Clases.exe
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\01_1503Autos_Clases\bin\Debug\net5.0\01_1503Autos_Clases.deps.json
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\01_1503Autos_Clases\bin\Debug\net5.0\01_1503Autos_Clases.runtimeconfig.json
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\01_1503Autos_Clases\bin\Debug\net5.0\01_1503Autos_Clases.runtimeconfig.dev.json
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\01_1503Autos_Clases\bin\Debug\net5.0\01_1503Autos_Clases.dll
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\01_1503Autos_Clases\bin\Debug\net5.0\ref\01_1503Autos_Clases.dll
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\01_1503Autos_Clases\bin\Debug\net5.0\01_1503Autos_Clases.pdb
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\01_1503Autos_Clases\obj\Debug\net5.0\01_1503Autos_Clases.csprojAssemblyReference.cache
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\01_1503Autos_Clases\obj\Debug\net5.0\01_1503Autos_Clases.GeneratedMSBuildEditorConfig.editorconfig
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\01_1503Autos_Clases\obj\Debug\net5.0\01_1503Autos_Clases.AssemblyInfoInputs.cache
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\01_1503Autos_Clases\obj\Debug\net5.0\01_1503Autos_Clases.AssemblyInfo.cs
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\01_1503Autos_Clases\obj\Debug\net5.0\01_1503Autos_Clases.csproj.CoreCompileInputs.cache
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\01_1503Autos_Clases\obj\Debug\net5.0\01_1503Autos_Clases.dll
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\01_1503Autos_Clases\obj\Debug\net5.0\ref\01_1503Autos_Clases.dll
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\01_1503Autos_Clases\obj\Debug\net5.0\01_1503Autos_Clases.pdb
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\01_1503Autos_Clases\obj\Debug\net5.0\01_1503Autos_Clases.genruntimeconfig.cache
