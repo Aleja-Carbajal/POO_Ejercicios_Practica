@@ -1,0 +1,16 @@
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\01_1503Auto_Clase\obj\Debug\net5.0\01_1503Auto_Clase.csprojAssemblyReference.cache
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\01_1503Auto_Clase\obj\Debug\net5.0\01_1503Auto_Clase.GeneratedMSBuildEditorConfig.editorconfig
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\01_1503Auto_Clase\obj\Debug\net5.0\01_1503Auto_Clase.AssemblyInfoInputs.cache
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\01_1503Auto_Clase\obj\Debug\net5.0\01_1503Auto_Clase.AssemblyInfo.cs
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\01_1503Auto_Clase\obj\Debug\net5.0\01_1503Auto_Clase.csproj.CoreCompileInputs.cache
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\01_1503Auto_Clase\bin\Debug\net5.0\01_1503Auto_Clase.exe
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\01_1503Auto_Clase\bin\Debug\net5.0\01_1503Auto_Clase.deps.json
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\01_1503Auto_Clase\bin\Debug\net5.0\01_1503Auto_Clase.runtimeconfig.json
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\01_1503Auto_Clase\bin\Debug\net5.0\01_1503Auto_Clase.runtimeconfig.dev.json
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\01_1503Auto_Clase\bin\Debug\net5.0\01_1503Auto_Clase.dll
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\01_1503Auto_Clase\bin\Debug\net5.0\ref\01_1503Auto_Clase.dll
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\01_1503Auto_Clase\bin\Debug\net5.0\01_1503Auto_Clase.pdb
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\01_1503Auto_Clase\obj\Debug\net5.0\01_1503Auto_Clase.dll
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\01_1503Auto_Clase\obj\Debug\net5.0\ref\01_1503Auto_Clase.dll
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\01_1503Auto_Clase\obj\Debug\net5.0\01_1503Auto_Clase.pdb
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\01_1503Auto_Clase\obj\Debug\net5.0\01_1503Auto_Clase.genruntimeconfig.cache
