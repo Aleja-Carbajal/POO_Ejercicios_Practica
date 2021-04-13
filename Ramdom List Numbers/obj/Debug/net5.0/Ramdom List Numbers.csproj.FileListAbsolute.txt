@@ -1,0 +1,16 @@
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\Ramdom List Numbers\bin\Debug\net5.0\Ramdom List Numbers.exe
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\Ramdom List Numbers\bin\Debug\net5.0\Ramdom List Numbers.deps.json
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\Ramdom List Numbers\bin\Debug\net5.0\Ramdom List Numbers.runtimeconfig.json
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\Ramdom List Numbers\bin\Debug\net5.0\Ramdom List Numbers.runtimeconfig.dev.json
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\Ramdom List Numbers\bin\Debug\net5.0\Ramdom List Numbers.dll
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\Ramdom List Numbers\bin\Debug\net5.0\ref\Ramdom List Numbers.dll
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\Ramdom List Numbers\bin\Debug\net5.0\Ramdom List Numbers.pdb
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\Ramdom List Numbers\obj\Debug\net5.0\Ramdom List Numbers.csprojAssemblyReference.cache
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\Ramdom List Numbers\obj\Debug\net5.0\Ramdom List Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\Ramdom List Numbers\obj\Debug\net5.0\Ramdom List Numbers.AssemblyInfoInputs.cache
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\Ramdom List Numbers\obj\Debug\net5.0\Ramdom List Numbers.AssemblyInfo.cs
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\Ramdom List Numbers\obj\Debug\net5.0\Ramdom List Numbers.csproj.CoreCompileInputs.cache
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\Ramdom List Numbers\obj\Debug\net5.0\Ramdom List Numbers.dll
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\Ramdom List Numbers\obj\Debug\net5.0\ref\Ramdom List Numbers.dll
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\Ramdom List Numbers\obj\Debug\net5.0\Ramdom List Numbers.pdb
+D:\UCA\Ciclo III\POO\Ejercicios Práctica\Ramdom List Numbers\obj\Debug\net5.0\Ramdom List Numbers.genruntimeconfig.cache
